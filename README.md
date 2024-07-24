@@ -3,7 +3,7 @@ Good day lecturer/assistant
 
 Welcome to my Overview repository. This respository is set up to document and lay out the overview of my CMPG 323 project.
 The project will be delivered in incremental tasks/subprojects of five. Thus you are going to ultimately have access to five
-projects by the end of this semester. Below is a breakdown of what each increment/deliverable consists of:
+projects and/or repositories by the end of this semester. Below is a breakdown of what each increment/deliverable consists of:
 
 Project 1: Agile
 
