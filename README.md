@@ -24,7 +24,7 @@ REPOSITORIES
 4. CMPG-323-Project 4-38082918
 5. CMPG-323-Project 5-38082918
 
-BRANCHING STRATEGIES TO BE USED WITHIN EACH PROJECT
+### BRANCHING STRATEGIES TO BE USED WITHIN EACH PROJECT //heading
 
 What is a branch: Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained seperate area.
 A default branch exists for every new repository and you can pull a sub branch from this main branch so you can modify your project without affecting 
